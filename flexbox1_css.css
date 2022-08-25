@@ -8,3 +8,8 @@
     height: 100px;
     flex: 1;
 }
+/* flex container class two, has changed growth rate to be 8, hence the 
+second column is 8 times the others*/
+.flex-container .two {
+    flex: 8;
+}
